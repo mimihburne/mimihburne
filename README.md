@@ -6,7 +6,7 @@
 
 
 - 🔭 I've recently graduated from the University of Bristol with a Physics MSci
-- ⚡ I am currently at Xander Talent as a Data Engineer
+- ⚡ I am currently at Xander Talent as a Data Engineer and have recently qualified as a Quantexa Data Engineer
 - 🌱 I have experience in python but am continually developing my abilities, always keen to learn new skills
 - 📫 Reach me on LinkedIn here [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mimi-houlihan-burne/) or by email at mimihburne@gmail.com
 
